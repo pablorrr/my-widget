@@ -5,7 +5,7 @@ Plugin URI: http://www.websitecreator.pl
 Description: Display taxonomies, comments , authors
 Author: Pawel Kalisz
 Version: 1.0
-Author URI: http://www.websitecreator.pl wpisów:
+Author URI: http://www.websitecreator.pl
 */
 class Simply_Widget extends WP_Widget{
     
