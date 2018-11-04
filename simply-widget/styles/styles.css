@@ -1,0 +1,14 @@
+﻿/* front end */
+h2.widget-title,.pages
+{
+color:#1DBF35;
+}
+#moj-widget-3 > ul:nth-child(3) > li > a{
+color:#1DBF35;
+}
+
+.taxonomy,.comment
+{
+color:navy;
+cursor:pointer;	
+}
